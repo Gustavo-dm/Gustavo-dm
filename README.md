@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently looking for an opportunity in development
+- 🔭 I’m currently looking for an opportunity 
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/gustavo-dm) - [E-mail](mailto:gustavothemoraes@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
