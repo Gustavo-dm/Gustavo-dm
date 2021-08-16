@@ -1,8 +1,5 @@
 ### Hello there 
 
-
-
-- 🔭 I’m currently looking for an opportunity as a software development intern.
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/gustavo-dm) - [E-mail](mailto:gustavothemoraes@gmail.com)
 
