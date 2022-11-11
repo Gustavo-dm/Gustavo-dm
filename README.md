@@ -1,7 +1,11 @@
 ### Hello there 
 
-- 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/gustavo-dm) - [E-mail](mailto:gustavothemoraes@gmail.com)
+- 👨‍💻 I'm currently working as a back-end developer @[Take 5][take5]
+- 📫 How to reach me:  
+<a href="(www.linkedin.com/in/gustavo-dm/"><img height ="25em"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="(mailto:gustavothemoraes@gmail.com"><img height ="25em"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <div align="center">
     <a href="https://github.com/gustavo-dm">
@@ -12,3 +16,12 @@
     </a>
 </div>
 
+<br />
+
+### Languages and Tools:
+![](https://img.shields.io/badge/CODE-Python-brightgreen)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/CODE-PL--SQL-blue)
+![](https://img.shields.io/badge/CODE-Javascript-lightgrey)
