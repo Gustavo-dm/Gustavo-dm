@@ -1,9 +1,9 @@
 ### Hello there 
 
-- 👨‍💻 I'm currently working as a back-end developer @[Take 5][take5]
+- 👨‍💻 I'm currently working as a back-end developer at @Take 5
 
 - 📫 How to reach me:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;          <a href="(www.linkedin.com/in/gustavo-dm/"><img height ="25em"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;          <a href="(www.linkedin.com/in/gustavo-dm/"><img height ="25em"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    <a href="(mailto:gustavothemoraes@gmail.com"><img height ="25em"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
