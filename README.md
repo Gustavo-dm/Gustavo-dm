@@ -1,6 +1,6 @@
 ### Hello there 
 
-- 👨‍💻 I'm currently working as a back-end developer at @Take 5
+- 👨‍💻 Desenvolvedor Python | Django | NodeJs | SQL | C#
 
 
 
